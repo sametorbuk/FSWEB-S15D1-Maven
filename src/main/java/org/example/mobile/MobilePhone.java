@@ -58,7 +58,8 @@ public class MobilePhone {
 
 
     public static int findContact(Contact contact){
-        return myContacts.indexOf(contact);
+
+       return myContacts.indexOf(contact);
     }
 
 
